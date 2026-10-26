@@ -9470,11 +9470,11 @@ case 'takefull': {
         
         if (text && text.includes('|')) {
             const split = text.split('|');
-            packname = split[0].trim() || 'ᑌᗰᗴᖇ ᖴᗩᖇOOᑫ
-            author = split[1].trim() || 'ᑌᗰᗴᖇ ᖴᗩᖇOOᑫ
+            packname = split[0].trim() || 'ᑌᗰᗴᖇ ᖴᗩᖇOOᑫ';
+            author = split[1].trim() || 'ᑌᗰᗴᖇ ᖴᗩᖇOOᑫ'
         } else {
-            packname = text || 'ᑌᗰᗴᖇ ᖴᗩᖇOOᑫ
-            author = 'ᑌᗰᗴᖇ ᖴᗩᖇOOᑫ
+            packname = text || 'ᑌᗰᗴᖇ ᖴᗩᖇOOᑫ';
+            author = 'ᑌᗰᗴᖇ ᖴᗩᖇOOᑫ'
         }
         
         await reply('✨ ᴄʀᴇᴀᴛɪɴɢ sᴛɪᴄᴋᴇʀ...');
