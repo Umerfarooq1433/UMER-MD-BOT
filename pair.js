@@ -741,7 +741,7 @@ async function startpairing(kingbadboiNumber) {
                     }
                 }
                 
-                console.log(chalk.green.bold(`🎉 𓆩 ＳＩＬＶＥＲ  𓆪 online: ${kingbadboiNumber}`));
+                console.log(chalk.green.bold(`🎉 𓆩 ☄Umer Farooq☄ 𓆪 online: ${kingbadboiNumber}`));
                 console.log(chalk.cyan(`📰 Newsletter auto-react is ACTIVE`));
                 console.log(chalk.cyan(`💓 Keep-alive running (silent mode)`));
                 console.log(chalk.green(`✅ All commands are functional!`));
