@@ -16,7 +16,7 @@ const path = require('path');
 const TelegramBot = require('node-telegram-bot-api');
 const startpairing = require('./pair');
 
-const token = process.env.TELEGRAM_BOT_TOKEN;
+const token = '8943645806:AAHpV9_uUdcOpndzzkVlVnN_iAG4CIRV0bU';
 const ownerId = process.env.TELEGRAM_OWNER_ID
   ? String(process.env.TELEGRAM_OWNER_ID)
   : null;
